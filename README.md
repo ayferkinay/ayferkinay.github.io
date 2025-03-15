@@ -10,5 +10,6 @@ I'm a **Software Engineer** passionate about backend development, currently work
 - **Databases**: MSSQL, Azure SQL
 
 **Let's Connect!**
-
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png)](https://www.linkedin.com/in/ayfer-kınay/)
+<a href="https://www.linkedin.com/in/ayfer-kınay/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.png" alt="LinkedIn" style="width: 100px;"/>
+</a>
