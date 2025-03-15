@@ -11,4 +11,6 @@ I'm a **Software Engineer** passionate about backend development, currently work
 
 --
 **Let's Connect!**
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayfer-kınay/)
