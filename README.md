@@ -9,7 +9,7 @@ I'm a **Backend Developer** passionate about writing clean, efficient code and s
 
 ## Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/ayfer-kinay/)
+- [LinkedIn](https://www.linkedin.com/in/ayfer-kınay/)
 
 ## Technologies
 
